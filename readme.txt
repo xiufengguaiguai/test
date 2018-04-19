@@ -7,5 +7,5 @@ third build
 
 forth build
 
-test dev
+test dev vim at master
 
