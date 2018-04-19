@@ -7,3 +7,5 @@ third build
 
 forth build
 
+test dev
+
